@@ -1,0 +1,3 @@
+[submodule "stringutil"]
+	path = stringutil
+	url = https://github.com/rwhitworth/stringutil
